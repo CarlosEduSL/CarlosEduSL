@@ -34,8 +34,8 @@ Sou apaixonado por tecnologia e por resolver problemas através da programação
 
 ## 📊 **Estatísticas no GitHub**
 
-![Carlos Eduardo's GitHub](https://github-readme-stats.vercel.app/api?username=CarlosEduSL&show_icons=true&theme=dark) 
+![Carlos Eduardo's GitHub](https://github-readme-stats.vercel.app/api?username=CarlosEduSL&show_icons=true&theme=tokyonight) 
 
 ## 🚀 **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduSL&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduSL&layout=compact&theme=tokyonight)
